@@ -1,0 +1,21 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               mrpandey's Math Blog
+tagline:             ''
+description:         'Just another blog on mathematics'
+url:                 http://math.mrpandey.com
+baseurl:             ''
+paginate:            5
+paginate_path:       "page:num"
+excerpt_separator:   <!--end_excerpt-->
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+# About/contact
+author:
+  name:              Avinash Pandey
